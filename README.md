@@ -1,5 +1,7 @@
 <h1>Dicee Game</h1>
 
+<h2>Project deployed on: https://dicee-game-kohl.vercel.app/</h2>
+
 <h3>The Complete 2023 Web Development Bootcamp's challenge</h3>
 
 <div style="display: inline_block"><br>
